@@ -1,0 +1,272 @@
+
+footer.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+C1
+  rotate: false
+  xy: 1334, 195
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C10
+  rotate: false
+  xy: 850, 102
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C2
+  rotate: false
+  xy: 1445, 195
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 1556, 195
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C4
+  rotate: false
+  xy: 1667, 195
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C5
+  rotate: false
+  xy: 1778, 195
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C6
+  rotate: false
+  xy: 1889, 195
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C7
+  rotate: false
+  xy: 1130, 133
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C8
+  rotate: false
+  xy: 489, 15
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+C9
+  rotate: false
+  xy: 600, 15
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+btnAniOff
+  rotate: false
+  xy: 1232, 169
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+btnAniOn
+  rotate: false
+  xy: 630, 51
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+btnVegtblOff
+  rotate: false
+  xy: 1130, 169
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+btnVegtblOn
+  rotate: false
+  xy: 313, 25
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+frmFotter
+  rotate: false
+  xy: 2, 87
+  size: 485, 142
+  orig: 485, 142
+  offset: 0, 0
+  index: -1
+frmNotice
+  rotate: false
+  xy: 2, 2
+  size: 202, 83
+  orig: 202, 83
+  offset: 0, 0
+  index: -1
+frmPrice
+  rotate: false
+  xy: 1334, 159
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 956, 138
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: -1
+ic1
+  rotate: false
+  xy: 850, 138
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+ic2
+  rotate: false
+  xy: 1045, 137
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+ic3
+  rotate: false
+  xy: 744, 110
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+ic4
+  rotate: false
+  xy: 206, 4
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+icc1
+  rotate: false
+  xy: 805, 49
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+icc2
+  rotate: false
+  xy: 849, 55
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+icc3
+  rotate: false
+  xy: 1960, 133
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+icc4
+  rotate: false
+  xy: 961, 94
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+icon1
+  rotate: false
+  xy: 1649, 125
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+icon10
+  rotate: false
+  xy: 1719, 124
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: false
+  xy: 1845, 138
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+icon3
+  rotate: false
+  xy: 1907, 133
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+icon4
+  rotate: false
+  xy: 1585, 116
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+icon5
+  rotate: false
+  xy: 1786, 122
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+icon6
+  rotate: false
+  xy: 1516, 107
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+icon7
+  rotate: false
+  xy: 415, 20
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+icon8
+  rotate: false
+  xy: 732, 49
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+icon9
+  rotate: false
+  xy: 1445, 112
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+tileFotter
+  rotate: false
+  xy: 630, 113
+  size: 112, 116
+  orig: 112, 116
+  offset: 0, 0
+  index: -1
+windown
+  rotate: false
+  xy: 489, 51
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1

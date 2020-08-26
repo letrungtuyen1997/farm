@@ -1,0 +1,279 @@
+
+storeHouse.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bgPanel
+  rotate: false
+  xy: 605, 784
+  size: 443, 495
+  orig: 443, 495
+  offset: 0, 0
+  index: -1
+bgPanelUd
+  rotate: false
+  xy: 1208, 1541
+  size: 443, 495
+  orig: 443, 495
+  offset: 0, 0
+  index: -1
+bgUdCore
+  rotate: false
+  xy: 1653, 1741
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+bgUdS1
+  rotate: false
+  xy: 605, 191
+  size: 301, 132
+  orig: 301, 132
+  offset: 0, 0
+  index: -1
+bgUdS2
+  rotate: false
+  xy: 1208, 1391
+  size: 443, 148
+  orig: 443, 148
+  offset: 0, 0
+  index: -1
+btnClose
+  rotate: false
+  xy: 1050, 979
+  size: 182, 205
+  orig: 182, 205
+  offset: 0, 0
+  index: -1
+buyBtn
+  rotate: false
+  xy: 908, 229
+  size: 191, 94
+  orig: 191, 94
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 605, 325
+  size: 462, 214
+  orig: 462, 214
+  offset: 0, 0
+  index: -1
+clockWise
+  rotate: false
+  xy: 1069, 408
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+confirmBtn
+  rotate: false
+  xy: 1050, 883
+  size: 191, 94
+  orig: 191, 94
+  offset: 0, 0
+  index: -1
+frameWatch
+  rotate: false
+  xy: 605, 65
+  size: 250, 124
+  orig: 250, 124
+  offset: 0, 0
+  index: -1
+goldStars
+  rotate: false
+  xy: 605, 541
+  size: 619, 241
+  orig: 619, 241
+  offset: 0, 0
+  index: -1
+greenBtn
+  rotate: false
+  xy: 1050, 787
+  size: 191, 94
+  orig: 191, 94
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 1653, 1494
+  size: 192, 245
+  orig: 192, 245
+  offset: 0, 0
+  index: -1
+iCoin
+  rotate: false
+  xy: 1847, 1645
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+iExp
+  rotate: false
+  xy: 1234, 1131
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+icon1
+  rotate: false
+  xy: 1997, 1891
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+icon10
+  rotate: false
+  xy: 1286, 1141
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+icon11
+  rotate: false
+  xy: 233, 19
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+icon12
+  rotate: false
+  xy: 857, 129
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+icon13
+  rotate: false
+  xy: 285, 28
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+icon14
+  rotate: false
+  xy: 1847, 1697
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: false
+  xy: 1113, 499
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+icon3
+  rotate: false
+  xy: 1950, 1838
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+icon4
+  rotate: false
+  xy: 1069, 480
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+icon5
+  rotate: false
+  xy: 1950, 1884
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+icon6
+  rotate: false
+  xy: 1234, 1077
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+icon7
+  rotate: false
+  xy: 1346, 1217
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+icon8
+  rotate: false
+  xy: 857, 82
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+icon9
+  rotate: false
+  xy: 1397, 1232
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 2, 1000
+  size: 601, 1036
+  orig: 601, 1036
+  offset: 0, 0
+  index: -1
+panelUd
+  rotate: false
+  xy: 2, 80
+  size: 601, 918
+  orig: 601, 918
+  offset: 0, 0
+  index: -1
+panelvideo
+  rotate: false
+  xy: 605, 1281
+  size: 601, 755
+  orig: 601, 755
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 1950, 1942
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+titlePanel
+  rotate: false
+  xy: 1208, 1281
+  size: 284, 108
+  orig: 284, 108
+  offset: 0, 0
+  index: -1
+videoBtn
+  rotate: false
+  xy: 1050, 1186
+  size: 294, 93
+  orig: 294, 93
+  offset: 0, 0
+  index: -1
+videoBtnDb
+  rotate: false
+  xy: 1494, 1295
+  size: 191, 94
+  orig: 191, 94
+  offset: 0, 0
+  index: -1
+watch
+  rotate: false
+  xy: 2, 2
+  size: 229, 76
+  orig: 229, 76
+  offset: 0, 0
+  index: -1
+yellowBtn
+  rotate: false
+  xy: 1653, 1398
+  size: 191, 94
+  orig: 191, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90581931748",
+    "firebase_url": "https://jk-farm-be52a.firebaseio.com",
+    "project_id": "jk-farm-be52a",
+    "storage_bucket": "jk-farm-be52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90581931748:android:90946958439b7d7bcffef1",
+        "android_client_info": {
+          "package_name": "jk.farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90581931748-02pn104uj1rs12vub6t3lk9ktb13m47h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bxuxL-E6o4H8uteqC5Jr63Q2_uaN0qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90581931748-02pn104uj1rs12vub6t3lk9ktb13m47h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,352 @@
+NPC_HuaYuan_skill2_2
+- Delay -
+active: true
+lowMin: 500.0
+lowMax: 500.0
+- Duration - 
+lowMin: 1250.0
+lowMax: 1250.0
+- Count - 
+min: 0
+max: 5
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 15.0
+highMax: 15.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1500.0
+highMax: 1500.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+independent: false
+- Life Offset - 
+active: false
+independent: false
+- X Offset - 
+active: true
+lowMin: -50.0
+lowMax: 50.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- X Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 5.0
+highMax: 10.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Y Scale - 
+active: false
+- Velocity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 10.0
+highMax: 60.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Angle - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 90.0
+highMax: 90.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Rotation - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 360.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Wind - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 50.0
+highMax: -50.0
+relative: false
+scalingCount: 11
+scaling0: 1.0
+scaling1: 0.040816326
+scaling2: 0.9591837
+scaling3: 0.020408163
+scaling4: 0.97959185
+scaling5: 0.0
+scaling6: 1.0
+scaling7: 0.0
+scaling8: 1.0
+scaling9: 0.08163265
+scaling10: 0.97959185
+timelineCount: 11
+timeline0: 0.0
+timeline1: 0.11643836
+timeline2: 0.21232876
+timeline3: 0.30136988
+timeline4: 0.39726028
+timeline5: 0.49315068
+timeline6: 0.60958904
+timeline7: 0.69863015
+timeline8: 0.7876712
+timeline9: 0.89041096
+timeline10: 1.0
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 3
+colors0: 1.0
+colors1: 1.0
+colors2: 0.8
+timelineCount: 1
+timeline0: 0.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Options - 
+attached: false
+continuous: true
+aligned: false
+additive: true
+behind: false
+premultipliedAlpha: false
+spriteMode: single
+- Image Paths -
+star20.png
+
+
+NPC_HuaYuan_skill2_3
+- Delay -
+active: true
+lowMin: 500.0
+lowMax: 500.0
+- Duration - 
+lowMin: 1250.0
+lowMax: 1250.0
+- Count - 
+min: 0
+max: 10
+- Emission - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 30.0
+highMax: 30.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Life - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1500.0
+highMax: 1500.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+independent: false
+- Life Offset - 
+active: false
+independent: false
+- X Offset - 
+active: true
+lowMin: -50.0
+lowMax: 50.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- X Scale - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 15.0
+highMax: 30.0
+relative: false
+scalingCount: 7
+scaling0: 1.0
+scaling1: 0.17977528
+scaling2: 0.994382
+scaling3: 0.16292135
+scaling4: 1.0
+scaling5: 0.19101124
+scaling6: 0.80898875
+timelineCount: 7
+timeline0: 0.0
+timeline1: 0.17420815
+timeline2: 0.34162897
+timeline3: 0.51809955
+timeline4: 0.6674208
+timeline5: 0.8552036
+timeline6: 0.98642534
+- Y Scale - 
+active: false
+- Velocity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 10.0
+highMax: 60.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Angle - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 90.0
+highMax: 90.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Rotation - 
+active: false
+- Wind - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 50.0
+highMax: -50.0
+relative: false
+scalingCount: 5
+scaling0: 1.0
+scaling1: 0.040816326
+scaling2: 1.0
+scaling3: 0.08163265
+scaling4: 0.93877554
+timelineCount: 5
+timeline0: 0.0
+timeline1: 0.28767124
+timeline2: 0.5958904
+timeline3: 0.8082192
+timeline4: 1.0
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 9
+colors0: 1.0
+colors1: 1.0
+colors2: 1.0
+colors3: 1.0
+colors4: 1.0
+colors5: 0.6
+colors6: 1.0
+colors7: 1.0
+colors8: 1.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.5242881
+timeline2: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Options - 
+attached: false
+continuous: true
+aligned: false
+additive: true
+behind: false
+premultipliedAlpha: false
+spriteMode: single
+- Image Paths -
+wsparticle08.png
+

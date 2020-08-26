@@ -1,0 +1,86 @@
+[
+  {
+    "lvUnlock": 1,
+    "strName": "icon1",
+    "price": 1,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 2,
+    "strName": "icon2",
+    "price": 2,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 4,
+    "strName": "icon3",
+    "price": 3,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 6,
+    "strName": "icon4",
+    "price": 30,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 8,
+    "strName": "icon5",
+    "price": 5,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 10,
+    "strName": "icon6",
+    "price": 7,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 12,
+    "strName": "icon7",
+    "price": 10,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 14,
+    "strName": "icon8",
+    "price": 45,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 16,
+    "strName": "icon9",
+    "price": 15,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 18,
+    "strName": "icon10",
+    "price": 20,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 20,
+    "strName": "icon11",
+    "price": 25,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 20,
+    "strName": "icon12",
+    "price": 65,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 22,
+    "strName": "icon13",
+    "price": 35,
+    "quantity": 0
+  },
+  {
+    "lvUnlock": 24,
+    "strName": "icon14",
+    "price": 90,
+    "quantity": 0
+  }
+]
